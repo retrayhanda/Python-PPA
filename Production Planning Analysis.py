@@ -12,7 +12,6 @@ def cover():
             ||                                         OLEH:                                         ||
             ||                                                                                       ||   
             ||                                  RAHMAD HARET RAYHANDA                                ||
-            ||                        PUTRI NURZAHIRA HAMIZAH Y.  (2310932028)                       ||
             ||                                                                                       ||                            
             ||                                                                                       || 
             ||                                                                                       ||
